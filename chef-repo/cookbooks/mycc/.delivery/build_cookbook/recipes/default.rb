@@ -1,10 +1,6 @@
 #
-# Cookbook:: myck
+# Cookbook:: build_cookbook
 # Recipe:: default
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
-
-package 'git' do
-    action :install
-end
-
+include_recipe 'delivery-truck::default'
