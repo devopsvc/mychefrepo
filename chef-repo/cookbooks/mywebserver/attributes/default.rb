@@ -16,5 +16,7 @@ force_default['chef_client']['splay']       = '100'
 
 default['mywebserver']['mymultipack'] = ['git','wget','tree']
 
+default['platform'] = 'maha'
+
 
 
