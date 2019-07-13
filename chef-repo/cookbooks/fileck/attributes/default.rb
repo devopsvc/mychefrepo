@@ -1,1 +1,0 @@
-default['myname']='maha'
