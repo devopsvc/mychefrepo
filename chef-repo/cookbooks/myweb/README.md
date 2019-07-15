@@ -1,4 +1,4 @@
-# mywebserver2
+# myweb
 
 TODO: Enter the cookbook description here.
 
