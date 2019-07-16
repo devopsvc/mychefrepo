@@ -8,3 +8,10 @@ default['myweb']['mywebpack'] = 'httpd'
 end
 
 
+
+
+default['myweb']['multipacks']= ['git','wget','tree']
+
+default['java']['jdk_version'] = '8'
+
+default['platform'] ='maha'
