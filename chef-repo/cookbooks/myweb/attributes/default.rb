@@ -12,6 +12,6 @@ end
 
 default['myweb']['multipacks']= ['git','wget','tree']
 
-default['java']['jdk_version'] = '8'
+default['java']['jdk_version'] = '7'
 
 default['platform'] ='maha'
